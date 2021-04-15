@@ -1,0 +1,13 @@
+# Files
+*~
+.DS_Store
+*.log
+yarn.lock
+
+# Build & Packages
+node_modules
+vendor
+
+# App
+.parcel
+dist
